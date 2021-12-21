@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="app_label">MapApp</string>
+    <string name="search_hint">SearchHint</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="text_search_from">Найдите место отправки</string>
+    <string name="text_search_to">Найдите место прибытия</string>
+    <string name="text_map_from">или укажите на карте</string>
+    <string name="btn_to_text">Построить маршрут</string>
+    <string name="dropped_start">Точка старта</string>
+    <string name="dropped_finish">Точка финиша</string>
+    <string name="error_text">Unknown</string>
+    <string name="ok_text">Found</string>
+    <string name="search">Поиск локации</string>
+    <string name="our_rout">Ваш маршрут</string>
+    <string name="text_history">История</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_from">Откуда</string>
+    <string name="text_to">Куда</string>
+    <string name="text_back">\"Для выхода нажмите \"назад\" еще раз\"</string>
+    <string name="fcm_message">It\'s message</string>
+    <string name="notif_channel_id">FCM channel</string>
+</resources>
